@@ -16,7 +16,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          persist-credentials: true
 
       - name: Configure git
         run: |
@@ -27,14 +26,13 @@ jobs:
         run: |
           git remote add upstream https://github.com/spmedia/Threat-Actor-Usernames-Scrape.git || true
           git fetch upstream
-          git fetch origin main
+          git fetch origin
 
-      - name: Mirror upstream main into fork main
+      - name: Merge upstream into main
         run: |
           git checkout main
-          git reset --hard upstream/main
+          git merge upstream/main --no-edit
 
-      - name: Push to fork (refresh lease info first)
+      - name: Push to fork
         run: |
-          git fetch origin main
-          git push origin main --force
+          git push origin main
