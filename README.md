@@ -41,11 +41,13 @@ Forums scraped from
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 307,614 |
+| Total usernames | 316,794 |
 | Total unique usernames | 291,136 |
 | Total duplicate usernames | 16,478 |
 
-*Last updated: December 29, 2025*
+*Last updated: December 29, 2025*<sup>*</sup>
+
+<sup>*total usernames is updated frequently. unique and dupe is monthly</sup>
 
 ---
 
@@ -91,7 +93,7 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 79,409 unique usernames
+**Amount:** 81,414 unique usernames
 
 ---
 
@@ -231,7 +233,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 25 2025 --> current date
 
-**Amount:** 1,096
+**Amount:** 1,128
 
 ---
 
