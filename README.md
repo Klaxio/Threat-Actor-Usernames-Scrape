@@ -27,20 +27,21 @@ Usernames scraped from various cybercrime forums.
 
 Forums scraped from
 
-- BreachForums.st (rip)
-- BreachForums.hn (rip)
-- BreachForums.bf (lol)
-- BlackHatWorld.com
-- Breachstars.io
-- Cracked.sh
-- DarknetArmy.io
-- DarkForums.st
-- Dread
-- HackForums.net
-- Leakbase.la
-- OGUser.com/OGU
-- Patched.sh
-- XSS.pro
+- [BreachForums.st](#breachforumsst-rip) (rip)
+- [BreachForums.hn](#breachforumshn-rip) (rip)
+- [BreachForums.bf](#breachforumsbf) (lol)
+- [BlackHatWorld.com](#blackhatworld)
+- [Breachstars.io](#breachstarsio)
+- [Cracked.sh](#crackedsh)
+- [DarknetArmy.io](#darknetarmyio)
+- [DarkForums.st](#darkforumsst)
+- [Dread](#dread)
+- [HackForums.net](#hackforumsnet)
+- [Leakbase.la](#leakbasela)
+- [OGUser.com/OGU](#ogusercomogu)
+- [Patched.sh](#patchedsh)
+- [Umbra.by](#umbraby)
+- [XSS.pro](#xsspro)
 
 ## Scraped Username Statistics
 
@@ -253,6 +254,18 @@ The usernames in this list are scraped from posted threads and users who respond
 **Date Range of scrape:** December 27 2025 --> current date
 
 **Amount:** 4,443
+
+---
+
+## Umbra.by
+
+**[forum_users_umbra.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_umbra.txt)**
+
+The usernames in this list are scraped from posted threads and users who respond in them.
+
+**Date Range of scrape:** January 03 2025 --> current date
+
+**Amount:** 150
 
 # Greetz 💌
 
