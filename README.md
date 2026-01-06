@@ -98,7 +98,7 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 88,907 unique usernames
+**Amount:** 89,924 unique usernames
 
 ---
 
@@ -138,7 +138,7 @@ These usernames are gathered from posted threads.
 
 **Date Range of scrape:** August 23 2025 --> current date
 
-**Amount:** 18,459
+**Amount:** 17,302
 
 ----
 
