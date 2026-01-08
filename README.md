@@ -99,7 +99,7 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 89,924 unique usernames
+**Amount:** 93,231 unique usernames
 
 ---
 
@@ -183,7 +183,7 @@ The usernames in this list are scraped from posted threads and users that reply 
 
 **Date Range of scrape:** October 7 2025 --> current date
 
-**Amount:** 3,342
+**Amount:** 3,453
 
 ----
 
@@ -253,7 +253,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 27 2025 --> current date
 
-**Amount:** 4,864
+**Amount:** 5,201
 
 ---
 
@@ -265,7 +265,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** January 03 2025 --> current date
 
-**Amount:** 150
+**Amount:** 157
 
 # Greetz 💌
 
