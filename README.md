@@ -39,7 +39,7 @@ Forums scraped from
 - [HackForums.net](#hackforumsnet)
 - [Leakbase.la](#leakbasela)
 - [OGUser.com/OGU](#ogusercomogu)
-- [Patched.sh](#patchedsh)
+- [Patched.to](#patchedto)
 - [Umbra.by](#umbraby)
 - [XSS.pro](#xsspro)
 
@@ -47,7 +47,7 @@ Forums scraped from
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 343,729 |
+| Total usernames | 356,295 |
 | Total unique usernames | 291,136 |
 | Total duplicate usernames | 16,478 |
 
@@ -99,7 +99,7 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 93,231 unique usernames
+**Amount:** 98,775 unique usernames
 
 ---
 
@@ -111,7 +111,7 @@ Usernames scraped from DarkForums
 
 **Date Range of scrape:** June 1 2025 --> current date
 
-**Amount:** 53,791 unique usernames
+**Amount:** 54,255 unique usernames
 
 ----
 
@@ -129,7 +129,7 @@ Usernames gathered from the Who's Online section, chatbox, and posted threads.
 
 ----
 
-## Patched.sh
+## Patched.to
 
 **[forum_users_patched.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_patched.txt)**
 
@@ -137,9 +137,11 @@ Usernames that have been scraped from the Patched forum - its some basic run of 
 
 These usernames are gathered from posted threads.
 
+Old url(s): Patched.sh
+
 **Date Range of scrape:** August 23 2025 --> current date
 
-**Amount:** 18,670
+**Amount:** 19,955
 
 ----
 
@@ -169,7 +171,7 @@ The usernames in this list are scraped from posted threads.
 
 **Date Range of scrape:** September 9 2025 --> current date
 
-**Amount:** 698
+**Amount:** 703
 
 ----
 
@@ -183,7 +185,7 @@ The usernames in this list are scraped from posted threads and users that reply 
 
 **Date Range of scrape:** October 7 2025 --> current date
 
-**Amount:** 3,453
+**Amount:** 3,727
 
 ----
 
@@ -211,7 +213,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 14 2025 --> current date
 
-**Amount:** 12,795
+**Amount:** 14,006
 
 ----
 
@@ -253,7 +255,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 27 2025 --> current date
 
-**Amount:** 5,201
+**Amount:** 5,785
 
 ---
 
