@@ -40,6 +40,7 @@ Forums scraped from
 - [Leakbase.la](#leakbasela)
 - [OGUser.com/OGU](#ogusercomogu)
 - [Patched.to](#patchedto)
+- [RehubCom](#rehubcomag)
 - [Umbra.by](#umbraby)
 - [XSS.pro](#xsspro)
 
@@ -235,7 +236,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **[forum_users_xss.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_xss.txt)**
 
-Russians gunna Russian. This forum is pretty og in the scene. They be talking about Программирование Разработка, Malware, Мошенничество, and Уязвимости. Used to have the domain xss[.]is until July 2025 when LE seized their stuffs and arrested 1 nerd in Ukraine over it. As always, LE takedowns are largely ineffective and the forum simply just popped back up a few days later on a new TLD.
+Russians gunna Russian. This forum is pretty og in the scene. They be talking about Программирование Разработка, Malware, Мошенничество, and Уязвимости. Used to have the domain xss[.]is until July 2025 when LE seized their stuffs and arrested 1 nerd (toha aka admin) in Ukraine over it. As always, LE takedowns are largely ineffective and the forum simply just popped back up a few days later on a new TLD.
 
 The usernames in this list are scraped from posted threads and users who respond in them.
 
@@ -269,9 +270,23 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Amount:** 162
 
+---
+
+## Rehubcom.ag
+
+**[forum_users_rehubcom.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_rehubcom.txt)**
+
+Following the shutdown/raid of XSS top admin, ex-moderator Rehub launched RehubCom.
+
+The usernames in this list are scraped from posted threads, users who respond in them, users who show up in the Members Online or Latest member section.
+
+**Date Range of scrape:** January 13 2026 --> current date
+
+**Amount:** Pending - In Collection Mode
+
 # Greetz 💌
 
-All the CTI nerds out there scraping intel stuffs and who are in the trenches, [dc225](https://defcon225.org/), sp, rj2, neQx, jt, smurda, jekz, MoB, sikez, and [Cybersecurity Stickers](https://cybersecuritystickers.com/)
+All the CTI nerds out there scraping intel stuffs and who are in the trenches, [dc225](https://defcon225.org/), chill intel companies that dont charge people 6-7 figures a year to access intel, sp, rj2, neQx, jt, smurda, jekz, MoB, sikez, and [Cybersecurity Stickers](https://cybersecuritystickers.com/)
 
 If you know of any cybersec researchers or CTI nerds who might find this data interesting, share it w em <3
 
