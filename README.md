@@ -201,7 +201,7 @@ The usernames in this list are scraped from posted threads and users who add rep
 
 **Date Range of scrape:** October 9 2025 --> current date
 
-**Amount:** 19,109
+**Amount:** 19,332
 
 ----
 
@@ -229,7 +229,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 18 2025 --> current date
 
-**Amount:** 16,083
+**Amount:** 16,978
 
 ----
 
