@@ -20,6 +20,7 @@ Other uses:
 
 - combine all the usernames together to use as an interesting password list
 - enrich existing intel
+- pick a random username from these lists and adopt it for yourself on another forum or platform to mask yourself a bit and to confuse some researchers/LE
 
 # Scraped Forums 📃
 
@@ -100,7 +101,7 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 100,708 unique usernames
+**Amount:** 102,070 unique usernames
 
 ---
 
@@ -112,7 +113,7 @@ Usernames scraped from DarkForums
 
 **Date Range of scrape:** June 1 2025 --> current date
 
-**Amount:** 54,522 unique usernames
+**Amount:** 54,700 unique usernames
 
 ----
 
@@ -214,7 +215,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 14 2025 --> current date
 
-**Amount:** 14,609
+**Amount:** 15,054
 
 ----
 
@@ -242,7 +243,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 25 2025 --> current date
 
-**Amount:** 1,488
+**Amount:** 1,513
 
 ---
 
@@ -256,7 +257,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 27 2025 --> current date
 
-**Amount:** 6,071
+**Amount:** 6,163
 
 ---
 
@@ -276,7 +277,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **[forum_users_rehubcom.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_rehubcom.txt)**
 
-Following the shutdown/raid of XSS top admin, ex-moderator Rehub launched RehubCom.
+Following the shutdown/raid of XSS top admin, ex-moderator Rehub launched RehubCom. A primarily RU language forum.
 
 The usernames in this list are scraped from posted threads, users who respond in them, users who show up in the Members Online or Latest member section.
 
