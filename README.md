@@ -102,7 +102,7 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 112,436 unique usernames
+**Amount:** 11,4586 unique usernames
 
 ---
 
@@ -114,7 +114,7 @@ Usernames scraped from DarkForums
 
 **Date Range of scrape:** June 1 2025 --> current date
 
-**Amount:** 56,394 unique usernames
+**Amount:** 56,426 unique usernames
 
 ----
 
@@ -244,7 +244,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 25 2025 --> current date
 
-**Amount:** 1,675
+**Amount:** 1,725
 
 ---
 
@@ -284,7 +284,7 @@ The usernames in this list are scraped from posted threads, users who respond in
 
 **Date Range of scrape:** January 13 2026 --> current date
 
-**Amount:** 756
+**Amount:** 785
 
 # Greetz 💌
 
