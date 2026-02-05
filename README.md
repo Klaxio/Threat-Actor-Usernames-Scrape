@@ -37,7 +37,7 @@ Forums scraped from
 - [Breachstars.io](#breachstarsio)
 - [Cracked.sh](#crackedsh)
 - [DarknetArmy.io](#darknetarmyio)
-- [DarkForums.st](#darkforumsst)
+- [DarkForums.me](#darkforumsme)
 - [Dread](#dread)
 - [HackForums.net](#hackforumsnet)
 - [Leakbase.la](#leakbasela)
@@ -121,11 +121,13 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 ---
 
-## DarkForums.st
+## DarkForums.me
 
 **[forum_users_darkforums.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_darkforums.txt)**
 
-Usernames scraped from DarkForums
+Usernames scraped from DarkForums.
+
+Old urls: DarkForums.io
 
 **Date Range of scrape:** June 1 2025 --> current date
 
@@ -231,7 +233,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 14 2025 --> current date
 
-**Amount:** 19,844
+**Amount:** 20,793
 
 ----
 
