@@ -142,7 +142,7 @@ Usernames gathered from the Who's Online section, chatbox, and posted threads.
 
 **Date Range of scrape:** August 22 2025 --> current date
 
-**Amount:** 9,089 unique usernames
+**Amount:** 9,354 unique usernames
 
 ----
 
@@ -216,7 +216,7 @@ The usernames in this list are scraped from posted threads and users who add rep
 
 **Date Range of scrape:** October 9 2025 --> current date
 
-**Amount:** 21,877
+**Amount:** 21,986
 
 ----
 
@@ -300,7 +300,7 @@ The usernames in this list are scraped from posted threads, users who respond in
 
 **Date Range of scrape:** January 13 2026 --> current date
 
-**Amount:** 1,035
+**Amount:** 1,114
 
 # Greetz 💌
 
