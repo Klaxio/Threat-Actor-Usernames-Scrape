@@ -51,7 +51,7 @@ Forums scraped from
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 423,195 |
+| Total usernames | 432,589 |
 | Total unique usernames | 383,117 |
 | Total duplicate usernames | 26,331 |
 
@@ -117,7 +117,7 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 126,915 unique usernames
+**Amount:** 131,313 unique usernames
 
 ---
 
@@ -131,7 +131,7 @@ Old urls: DarkForums.io
 
 **Date Range of scrape:** June 1 2025 --> current date
 
-**Amount:** 57,648 unique usernames
+**Amount:** 57,978 unique usernames
 
 ----
 
@@ -161,7 +161,7 @@ Old url(s): Patched.sh
 
 **Date Range of scrape:** August 23 2025 --> current date
 
-**Amount:** 23,560
+**Amount:** 23,800
 
 ----
 
@@ -205,7 +205,7 @@ The usernames in this list are scraped from posted threads and users that reply 
 
 **Date Range of scrape:** October 7 2025 --> current date
 
-**Amount:** 5,842
+**Amount:** 5,988
 
 ----
 
@@ -233,7 +233,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 14 2025 --> current date
 
-**Amount:** 20,793
+**Amount:** 21,725
 
 ----
 
@@ -263,7 +263,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 25 2025 --> current date
 
-**Amount:** 2,546
+**Amount:** 2,602
 
 ---
 
@@ -277,7 +277,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 27 2025 --> current date
 
-**Amount:** 8,480
+**Amount:** 8,685
 
 ---
 
@@ -303,7 +303,7 @@ The usernames in this list are scraped from posted threads, users who respond in
 
 **Date Range of scrape:** January 13 2026 --> current date
 
-**Amount:** 1,114
+**Amount:** 1,200
 
 ---
 
@@ -317,7 +317,7 @@ The usernames in this list are scraped from posted threads.
 
 **Date Range of scrape:** February 5 2026 --> current date
 
-**Amount:** In collection mode - coming soon
+**Amount:** 1,653
 
 ---
 
