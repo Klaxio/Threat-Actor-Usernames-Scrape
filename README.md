@@ -53,7 +53,7 @@ Forums scraped from
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 503,384 |
+| Total usernames | 505,384 |
 | Total unique usernames | 383,117 |
 | Total duplicate usernames | 26,331 |
 
@@ -105,6 +105,22 @@ The usernames in this list are scraped from posted threads.
 
 ---
 
+----
+
+## BreachStars.io
+
+**[forum_users_breachstars.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_breachstars.txt)**
+
+A forum that recently was created from the ashes of Breached going down. Admins are Rey from the Hellcat ransomware group and a few other threat actors from the breached/RaaS/db leaker scene.
+
+Previous domains include: BreachSta.rs, Bstars.st, breachstars.st, breachstars.hn
+
+The usernames in this list are scraped from posted threads.
+
+**Date Range of scrape:** September 9 2025 --> Jan 24 2026
+
+**Amount:** 733
+
 ---
 
 ---
@@ -119,7 +135,7 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 146,498 unique usernames
+**Amount:** 146,688 unique usernames
 
 ---
 
@@ -181,22 +197,6 @@ Usernames gathered from posted threads and the Who's Online section at the botto
 
 ----
 
-## BreachStars.io
-
-**[forum_users_breachstars.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_breachstars.txt)**
-
-A forum that recently was created from the ashes of Breached going down. Admins are Rey from the Hellcat ransomware group and a few other threat actors from the breached/RaaS/db leaker scene.
-
-Previous domains include: BreachSta.rs, Bstars.st, breachstars.st, breachstars.hn
-
-The usernames in this list are scraped from posted threads.
-
-**Date Range of scrape:** September 9 2025 --> current date
-
-**Amount:** 733
-
-----
-
 ## OGUser.com/OGU
 
 **[forum_users_oguser.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_oguser.txt)**
@@ -221,7 +221,7 @@ The usernames in this list are scraped from posted threads and users who add rep
 
 **Date Range of scrape:** October 9 2025 --> current date
 
-**Amount:** 23,312
+**Amount:** 23,394
 
 ----
 
@@ -235,7 +235,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 14 2025 --> current date
 
-**Amount:** 28,135
+**Amount:** 29,058
 
 ----
 
@@ -265,7 +265,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 25 2025 --> current date
 
-**Amount:** 3,011
+**Amount:** 3,080
 
 ---
 
@@ -333,7 +333,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** February 7 2026 --> current date
 
-**Amount:** 27,179
+**Amount:** 28,507
 
 ---
 
