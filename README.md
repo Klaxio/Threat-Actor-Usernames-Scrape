@@ -135,7 +135,7 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 157,128 unique usernames
+**Amount:** 159,407 unique usernames
 
 ---
 
@@ -179,7 +179,7 @@ Old url(s): Patched.sh
 
 **Date Range of scrape:** August 23 2025 --> current date
 
-**Amount:** 27,182
+**Amount:** 28,145
 
 ----
 
@@ -249,7 +249,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 old tlds: BreachForums.jp, BreachForums.bf
 
-**Date Range of scrape:** December 18 2025 --> current date
+**Date Range of scrape:** December 18 2025 --> March 16 2026
 
 **Amount:** 39,229
 
@@ -265,7 +265,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 25 2025 --> current date
 
-**Amount:** 3,157
+**Amount:** 3,293
 
 ---
 
@@ -279,7 +279,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 27 2025 --> current date
 
-**Amount:** 11,177
+**Amount:** 11,521
 
 ---
 
@@ -305,7 +305,7 @@ The usernames in this list are scraped from posted threads, users who respond in
 
 **Date Range of scrape:** January 13 2026 --> current date
 
-**Amount:** 1,851
+**Amount:** 1,866
 
 ---
 
@@ -319,7 +319,7 @@ The usernames in this list are scraped from posted threads.
 
 **Date Range of scrape:** February 5 2026 --> current date
 
-**Amount:** 4,427
+**Amount:** 4,629
 
 ---
 
@@ -333,7 +333,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** February 7 2026 --> current date
 
-**Amount:** 34,749
+**Amount:** 36,562
 
 ---
 
