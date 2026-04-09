@@ -45,13 +45,15 @@ Active:
 - [ASCarding.net](#ascardingnet)
 - [BlackHatWorld.com](#blackhatworld)
 - [Cracked.sh](#crackedsh)
+- [CraxPro](#craxproorg)
 - [DarknetArmy.io](#darknetarmyio)
-- [DarkForums.me](#darkforumsme)
+- [DarkForums.su](#darkforumssu)
 - [Dread](#dread)
 - [HackForums.net](#hackforumsnet)
 - [OGUser.com/OGU](#ogusercomogu)
 - [Patched.to](#patchedto)
 - [RehubCom](#rehubcomag)
+- [xReactor](#xreactororg)
 - [XSS.pro](#xsspro)
 
 ## Scraped Username Statistics
@@ -168,13 +170,13 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 ---
 
-## DarkForums.me
+## DarkForums.su
 
 **[forum_users_darkforums.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_darkforums.txt)**
 
 Usernames scraped from DarkForums.
 
-Old urls: DarkForums.io
+Old urls: DarkForums.io, DarkForums.me
 
 **Date Range of scrape:** June 1 2025 --> current date
 
@@ -236,7 +238,7 @@ The usernames in this list are scraped from posted threads and users who add rep
 
 **Date Range of scrape:** October 9 2025 --> current date
 
-**Amount:** 25,179
+**Amount:** 25,266
 
 ----
 
@@ -282,7 +284,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 25 2025 --> current date
 
-**Amount:** 4,113
+**Amount:** 4,185
 
 ---
 
@@ -296,7 +298,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 27 2025 --> current date
 
-**Amount:** 13,478
+**Amount:** 13,749
 
 ---
 
@@ -324,7 +326,7 @@ The usernames in this list are scraped from posted threads.
 
 **Date Range of scrape:** February 5 2026 --> current date
 
-**Amount:** 6,150
+**Amount:** 6,259
 
 ---
 
@@ -339,6 +341,34 @@ The usernames in this list are scraped from posted threads and Who's Online.
 **Date Range of scrape:** February 7 2026 --> current date
 
 **Amount:** 47,957
+
+---
+
+## CraxPro.org
+
+**[forum_users_craxpro.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_craxpro.txt)**
+
+A financial fraud and carding/spamming/hacking forum.
+
+The usernames in this list are scraped from posted threads and Who's Online.
+
+**Date Range of scrape:** March 31 2026 --> current date
+
+**Amount:** 2,184
+
+---
+
+## xReactor.org
+
+**[forum_users_xreactor.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_xreactor.txt)**
+
+A carding forum.
+
+The usernames in this list are scraped from posted threads and Who's Online.
+
+**Date Range of scrape:** March 31 2026 --> current date
+
+**Amount:** 3,820
 
 ---
 
