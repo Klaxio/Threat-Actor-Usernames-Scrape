@@ -31,14 +31,18 @@ Usernames scraped from various cybercrime forums.
 
 Forums scraped from
 
-- [BreachForums.st](#breachforumsst-rip) (rip)
-- [BreachForums.hn](#breachforumshn-rip) (rip)
-- [Breachstars.io](#breachstarsio) (rip)
-- [Leakbase.la](#leakbasela) (rip)
-- [NoHide.io](#nohideio--rip) (rip)
+Dead:
+- [BreachForums.st](#breachforumsst-rip) 
+- [BreachForums.hn](#breachforumshn-rip)
+- [BreachForums.bf](#breachforumsbf) (lol) 
+- [Breachstars.io](#breachstarsio) 
+- [Leakbase.la](#leakbasela) 
+- [NoHide.io](#nohideio--rip) 
+- [Umbra.by](#umbraby)
+
+Active:
 - [Altenen.is](#altenenis)
 - [ASCarding.net](#ascardingnet)
-- [BreachForums.bf](#breachforumsbf) (lol)
 - [BlackHatWorld.com](#blackhatworld)
 - [Cracked.sh](#crackedsh)
 - [DarknetArmy.io](#darknetarmyio)
@@ -48,14 +52,13 @@ Forums scraped from
 - [OGUser.com/OGU](#ogusercomogu)
 - [Patched.to](#patchedto)
 - [RehubCom](#rehubcomag)
-- [Umbra.by](#umbraby)
 - [XSS.pro](#xsspro)
 
 ## Scraped Username Statistics
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 579,470 |
+| Total usernames | 598,095 |
 | Total unique usernames | 491,251 |
 | Total duplicate usernames | 35,426 |
 
@@ -109,7 +112,7 @@ The usernames in this list are scraped from posted threads.
 
 ## BreachStars.io
 
-**[forum_users_breachstars.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_breachstars.txt)**
+**[dead_forum_users_breachstars.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/dead_forum_users_breachstars.txt)**
 
 A forum that recently was created from the ashes of Breached going down. Admins are Rey from the Hellcat ransomware group and a few other threat actors from the breached/RaaS/db leaker scene.
 
@@ -125,7 +128,7 @@ The usernames in this list are scraped from posted threads.
 
 ## Leakbase.la
 
-**[forum_users_leakbase.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_leakbase.txt)**
+**[dead_forum_users_leakbase.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/dead_forum_users_leakbase.txt)**
 
 Usernames scraped from Leakbase - this site has been around a while and has went thru a few different domain TLDs. It's basically where threat actors can go and leak dbs and info or DL them.
 
@@ -134,6 +137,18 @@ Usernames gathered from the Who's Online section, chatbox, and posted threads.
 **Date Range of scrape:** August 22 2025 --> March 4 2026. Forum taken down and seized by law enforcement. 
 
 **Amount:** 10,954 unique usernames
+
+---
+
+## Umbra.by
+
+**[dead_forum_users_umbra.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/dead_forum_users_umbra.txt)**
+
+The usernames in this list are scraped from posted threads and users who respond in them.
+
+**Date Range of scrape:** January 03 2025 --> 4/1/26
+
+**Amount:** 257
 
 ---
 
@@ -149,7 +164,7 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 173,848 unique usernames
+**Amount:** 178,078 unique usernames
 
 ---
 
@@ -179,7 +194,7 @@ Old url(s): Patched.sh
 
 **Date Range of scrape:** August 23 2025 --> current date
 
-**Amount:** 30,192
+**Amount:** 30,536
 
 ----
 
@@ -193,7 +208,7 @@ Usernames gathered from posted threads and the Who's Online section at the botto
 
 **Date Range of scrape:** August 25 2025 --> current date
 
-**Amount:** 58,790
+**Amount:** 59,034
 
 ----
 
@@ -207,7 +222,7 @@ The usernames in this list are scraped from posted threads and users that reply 
 
 **Date Range of scrape:** October 7 2025 --> current date
 
-**Amount:** 9,473
+**Amount:** 9,567
 
 ----
 
@@ -285,18 +300,6 @@ The usernames in this list are scraped from posted threads and users who respond
 
 ---
 
-## Umbra.by
-
-**[forum_users_umbra.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_umbra.txt)**
-
-The usernames in this list are scraped from posted threads and users who respond in them.
-
-**Date Range of scrape:** January 03 2025 --> current date
-
-**Amount:** 257
-
----
-
 ## Rehubcom.ag
 
 **[forum_users_rehubcom.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_rehubcom.txt)**
@@ -335,7 +338,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** February 7 2026 --> current date
 
-**Amount:** 46,842
+**Amount:** 47,957
 
 ---
 
