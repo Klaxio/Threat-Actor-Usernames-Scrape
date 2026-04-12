@@ -18,7 +18,7 @@ Other uses for these lists:
 
 - combine all the usernames together to use as an interesting password list
 - enrich existing intel
-- pick a random username from these lists and adopt it for yourself on another forum or platform to mask yourself a bit and to confuse some researchers/LE
+- pick a random username from these lists and adopt it for yourself on another forum or platform to mask yourself a bit and to confuse some researchers or law enforcement
 - use the data to send PM spam on the forums
 - do some cool nerd data science things
 - track a threat actor username across multiple forums to see which ones they are on
@@ -60,11 +60,11 @@ Active:
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 598,095 |
-| Total unique usernames | 491,251 |
-| Total duplicate usernames | 35,426 |
+| Total usernames | 615,092 |
+| Total unique usernames | 574,244 |
+| Total duplicate usernames | 40,848 |
 
-*Last updated: March 10, 2025*<sup>*</sup>
+*Last updated: April 12, 2026*<sup>*</sup>
 
 <sup>*total usernames is updated frequently. unique and dupe is monthly</sup>
 
@@ -166,7 +166,7 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 178,078 unique usernames
+**Amount:** 180,290 unique usernames
 
 ---
 
@@ -180,7 +180,7 @@ Old urls: DarkForums.io, DarkForums.me
 
 **Date Range of scrape:** June 1 2025 --> current date
 
-**Amount:** 63,146 unique usernames
+**Amount:** 63,764 unique usernames
 
 ----
 
@@ -224,7 +224,7 @@ The usernames in this list are scraped from posted threads and users that reply 
 
 **Date Range of scrape:** October 7 2025 --> current date
 
-**Amount:** 9,567
+**Amount:** 9,736
 
 ----
 
@@ -252,7 +252,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 14 2025 --> current date
 
-**Amount:** 44,262
+**Amount:** 44,882
 
 ----
 
@@ -284,7 +284,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 25 2025 --> current date
 
-**Amount:** 4,185
+**Amount:** 4,294
 
 ---
 
@@ -298,7 +298,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 27 2025 --> current date
 
-**Amount:** 13,749
+**Amount:** 14,076
 
 ---
 
@@ -326,7 +326,7 @@ The usernames in this list are scraped from posted threads.
 
 **Date Range of scrape:** February 5 2026 --> current date
 
-**Amount:** 6,259
+**Amount:** 6,473
 
 ---
 
@@ -354,7 +354,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** March 31 2026 --> current date
 
-**Amount:** 2,184
+**Amount:** 2,629
 
 ---
 
@@ -368,7 +368,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** March 31 2026 --> current date
 
-**Amount:** 3,820
+**Amount:** 4,186
 
 ---
 
