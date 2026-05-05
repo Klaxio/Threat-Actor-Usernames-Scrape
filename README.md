@@ -60,7 +60,7 @@ Active:
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 658,847 |
+| Total usernames | 668,059 |
 | Total unique usernames | 574,244 |
 | Total duplicate usernames | 40,848 |
 
@@ -214,7 +214,7 @@ Old url(s): Patched.sh
 
 **Date Range of scrape:** August 23 2025 --> current date
 
-**Amount:** 32,917
+**Amount:** 34,204
 
 ----
 
@@ -270,7 +270,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 14 2025 --> current date
 
-**Amount:** 51,661
+**Amount:** 53,374
 
 ----
 
@@ -298,7 +298,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 27 2025 --> current date
 
-**Amount:** 15,342
+**Amount:** 15,767
 
 ---
 
@@ -326,7 +326,7 @@ The usernames in this list are scraped from posted threads.
 
 **Date Range of scrape:** February 5 2026 --> current date
 
-**Amount:** 9,170
+**Amount:** 9,261
 
 ---
 
