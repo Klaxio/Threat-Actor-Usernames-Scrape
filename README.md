@@ -184,7 +184,7 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 205,923 unique usernames
+**Amount:** 208,942 unique usernames
 
 ---
 
@@ -270,7 +270,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 14 2025 --> current date
 
-**Amount:** 56,631
+**Amount:** 57,391
 
 ----
 
@@ -326,7 +326,7 @@ The usernames in this list are scraped from posted threads.
 
 **Date Range of scrape:** February 5 2026 --> current date
 
-**Amount:** 9,823
+**Amount:** 9,998
 
 ---
 
@@ -340,7 +340,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** February 7 2026 --> current date
 
-**Amount:** 63,146
+**Amount:** 64,807
 
 ---
 
@@ -354,7 +354,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** March 31 2026 --> current date
 
-**Amount:** 6,072
+**Amount:** 6,338
 
 ---
 
@@ -376,7 +376,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **[forum_users_breached2026.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_breached2026.txt)**
 
-once again, same shit different pile. 2026 remix edition. this forum will not last long.
+once again, same shit different pile. 2026 remix edition. this forum will not last long. they also be allowing ransomware nerds to post on it.
 
 **Date Range of scrape:** May 15 2026 --> current date
 
