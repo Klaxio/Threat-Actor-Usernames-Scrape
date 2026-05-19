@@ -258,7 +258,7 @@ The usernames in this list are scraped from posted threads and users who add rep
 
 **Date Range of scrape:** October 9 2025 --> current date
 
-**Amount:** 28,103
+**Amount:** 28,561
 
 ----
 
@@ -342,7 +342,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** February 7 2026 --> current date
 
-**Amount:** 64,807
+**Amount:** 65,519
 
 ---
 
@@ -391,7 +391,7 @@ once again, same shit different pile. 2026 remix edition. this forum will not la
 
 **[forum_users_damagelab.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_damagelab.txt)**
 
-ФОРУМ ЧЁРНОГО РЫНКА - Your run of the mil cybercrime forum with database distribution, phishing panels, and offshore bulletproof hosting.
+ФОРУМ ЧЁРНОГО РЫНКА - Your run of the mill cybercrime forum with database distribution, phishing panels, and offshore bulletproof hosting.
 
 **Date Range of scrape:** May 18 2026 --> current date
 
