@@ -231,7 +231,7 @@ Usernames gathered from posted threads and the Who's Online section at the botto
 
 **Date Range of scrape:** August 25 2025 --> current date
 
-**Amount:** 60,096
+**Amount:** 60,237
 
 ----
 
@@ -301,7 +301,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 27 2025 --> current date
 
-**Amount:** 16,979
+**Amount:** 17,244
 
 ---
 
@@ -371,7 +371,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** March 31 2026 --> current date
 
-**Amount:** 7,373
+**Amount:** 7,513
 
 ---
 
