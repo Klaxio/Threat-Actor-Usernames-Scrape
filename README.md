@@ -63,7 +63,7 @@ Active:
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 718,674 |
+| Total usernames | 727,169 |
 | Total unique usernames | 651,089 |
 | Total duplicate usernames | 44,386 |
 
@@ -187,7 +187,7 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 211,713 unique usernames
+**Amount:** 214,228 unique usernames
 
 ---
 
@@ -201,7 +201,7 @@ Old urls: DarkForums.io, DarkForums.me
 
 **Date Range of scrape:** June 1 2025 --> current date
 
-**Amount:** 71,398 unique usernames
+**Amount:** 72,469 unique usernames
 
 ----
 
