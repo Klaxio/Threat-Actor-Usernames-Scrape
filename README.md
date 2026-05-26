@@ -217,7 +217,7 @@ Old url(s): Patched.sh
 
 **Date Range of scrape:** August 23 2025 --> current date
 
-**Amount:** 37,154
+**Amount:** 37,744
 
 ----
 
@@ -231,7 +231,7 @@ Usernames gathered from posted threads and the Who's Online section at the botto
 
 **Date Range of scrape:** August 25 2025 --> current date
 
-**Amount:** 60,237
+**Amount:** 60,324
 
 ----
 
