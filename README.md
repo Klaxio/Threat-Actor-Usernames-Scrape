@@ -259,7 +259,7 @@ The usernames in this list are scraped from posted threads and users who add rep
 
 **Date Range of scrape:** October 9 2025 --> current date
 
-**Amount:** 29,218
+**Amount:** 29,449
 
 ----
 
@@ -315,7 +315,7 @@ The usernames in this list are scraped from posted threads, users who respond in
 
 **Date Range of scrape:** January 13 2026 --> current date
 
-**Amount:** 2,394
+**Amount:** 2,403
 
 ---
 
@@ -329,7 +329,7 @@ The usernames in this list are scraped from posted threads.
 
 **Date Range of scrape:** February 5 2026 --> current date
 
-**Amount:** 10,310
+**Amount:** 10,528
 
 ---
 
@@ -343,7 +343,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** February 7 2026 --> current date
 
-**Amount:** 66,902
+**Amount:** 68,560
 
 ---
 
@@ -357,7 +357,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** March 31 2026 --> current date
 
-**Amount:** 6,802
+**Amount:** 7,067
 
 ---
 
@@ -371,7 +371,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** March 31 2026 --> current date
 
-**Amount:** 7,513
+**Amount:** 7,712
 
 ---
 
@@ -385,7 +385,7 @@ Past urls: Breached.st
 
 **Date Range of scrape:** May 15 2026 --> current date
 
-**Amount:** 12,400
+**Amount:** 13,265
 
 ---
 
@@ -411,7 +411,7 @@ Scraped from posted threads, replies, and Who's Online sections.
 
 **Date Range of scrape:** May 22 2026 --> current date
 
-**Amount:** coming soon - in collection mode
+**Amount:** 1,114
 
 ---
 
