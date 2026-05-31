@@ -23,7 +23,7 @@ Other uses for these lists:
 - do some cool nerd data science things
 - track a threat actor username across multiple forums to see which ones they are on
 
-Help us grow and protect the world by giving us a ⭐
+Help me grow this repo by giving me a ⭐ pls <3
 
 # Scraped Forums 📃
 
