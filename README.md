@@ -39,6 +39,7 @@ Dead:
 - [Leakbase.la](#leakbasela) 
 - [NoHide.io](#nohideio--rip) 
 - [Umbra.by](#umbraby)
+- [RAMP](#ramp)
 
 Active:
 - [Altenen.is](#altenenis)
@@ -62,7 +63,7 @@ Active:
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 761,605 |
+| Total usernames | 774,623 |
 | Total unique usernames | 651,089 |
 | Total duplicate usernames | 44,386 |
 
@@ -171,6 +172,18 @@ The usernames in this list are scraped from posted threads and users who respond
 **Date Range of scrape:** January 03 2025 --> 4/1/26
 
 **Amount:** 257
+
+---
+
+## RAMP
+
+**[dead_forum_users_ramp.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/dead_forum_users_ramp.txt)**
+
+Collected usernames from RAMP/RAMP4U forum by [Dancho Danchev](https://ddanchev.blogspot.com/2026/03/a-full-list-of-usernames-and-handles.html). Forum was [taken down by the FBI in Jan 2026](https://www.zerofox.com/intelligence/flash-report-fbi-seizes-dark-web-forum-ramp/) and never came back up.
+
+**Date Range of scrape:** Jan 2026
+
+**Amount:** 7,709
 
 ---
 
