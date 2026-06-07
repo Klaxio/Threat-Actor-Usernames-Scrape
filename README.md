@@ -186,7 +186,7 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 222,761 unique usernames
+**Amount:** 224,214 unique usernames
 
 ---
 
@@ -200,7 +200,7 @@ Old urls: DarkForums.io, DarkForums.me
 
 **Date Range of scrape:** June 1 2025 --> current date
 
-**Amount:** 74,159 unique usernames
+**Amount:** 74,817 unique usernames
 
 ----
 
@@ -216,7 +216,7 @@ Old url(s): Patched.sh
 
 **Date Range of scrape:** August 23 2025 --> current date
 
-**Amount:** 40,058
+**Amount:** 40,315
 
 ----
 
@@ -230,7 +230,7 @@ Usernames gathered from posted threads and the Who's Online section at the botto
 
 **Date Range of scrape:** August 25 2025 --> current date
 
-**Amount:** 60,492
+**Amount:** 60,532
 
 ----
 
@@ -244,7 +244,7 @@ The usernames in this list are scraped from posted threads and users that reply 
 
 **Date Range of scrape:** October 7 2025 --> current date
 
-**Amount:** 12,095
+**Amount:** 12,221
 
 ----
 
@@ -272,7 +272,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 14 2025 --> current date
 
-**Amount:** 63,261
+**Amount:** 63,860
 
 ----
 
@@ -300,7 +300,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 27 2025 --> current date
 
-**Amount:** 17,873
+**Amount:** 18,099
 
 ---
 
@@ -328,7 +328,7 @@ The usernames in this list are scraped from posted threads.
 
 **Date Range of scrape:** February 5 2026 --> current date
 
-**Amount:** 11,113
+**Amount:** 11,134
 
 ---
 
@@ -342,7 +342,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** February 7 2026 --> current date
 
-**Amount:** 72,996
+**Amount:** 73,589
 
 ---
 
@@ -356,7 +356,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** March 31 2026 --> current date
 
-**Amount:** 7,875
+**Amount:** 8,010
 
 ---
 
@@ -370,7 +370,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** March 31 2026 --> current date
 
-**Amount:** 8,702
+**Amount:** 8,854
 
 ---
 
@@ -384,7 +384,7 @@ Past urls: Breached.st
 
 **Date Range of scrape:** May 15 2026 --> current date
 
-**Amount:** 15,172
+**Amount:** 15,454
 
 ---
 
@@ -397,7 +397,7 @@ Scraped from posted threads, replies, and Who's Online sections.
 
 **Date Range of scrape:** May 22 2026 --> current date
 
-**Amount:** 2,317
+**Amount:** 2,459
 
 ---
 
