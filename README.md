@@ -327,7 +327,7 @@ The usernames in this list are scraped from posted threads, users who respond in
 
 **Date Range of scrape:** January 13 2026 --> current date
 
-**Amount:** 2,414
+**Amount:** 2,419
 
 ---
 
@@ -397,7 +397,7 @@ Past urls: Breached.st
 
 **Date Range of scrape:** May 15 2026 --> current date
 
-**Amount:** 15,454
+**Amount:** 15,553
 
 ---
 
