@@ -36,8 +36,9 @@ Dead:
 - [BreachForums.hn](#breachforumshn-rip)
 - [BreachForums.bf](#breachforumsbf) (lol) 
 - [Breachstars.io](#breachstarsio) 
-- [Leakbase.la](#leakbasela) 
-- [NoHide.io](#nohideio--rip) 
+- [Leakbase.la](#leakbasela)
+- [NoHide.io](#nohideio--rip)
+- [Nulled](#nulled) 
 - [Umbra.by](#umbraby)
 - [RAMP](#ramp)
 
@@ -63,11 +64,11 @@ Active:
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 774,623 |
-| Total unique usernames | 651,089 |
-| Total duplicate usernames | 44,386 |
+| Total usernames | 819,360 |
+| Total unique usernames | 773,159 |
+| Total duplicate usernames | 46,201 |
 
-*Last updated: May 15, 2026*<sup>*</sup>
+*Last updated: June 10, 2026*<sup>*</sup>
 
 <sup>*total usernames is updated frequently. unique and dupe is monthly</sup>
 
@@ -184,6 +185,19 @@ Collected usernames from RAMP/RAMP4U forum by [Dancho Danchev](https://ddanchev.
 **Date Range of scrape:** Jan 2026
 
 **Amount:** 7,709
+
+---
+
+
+## Nulled
+
+**[dead_forum_users_nulled.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/dead_forum_users_nulled.txt)**
+
+From their db leak in 2018 of nulled.cr
+
+**Date Range of scrape:** 2018
+
+**Amount:** 42,315
 
 ---
 
