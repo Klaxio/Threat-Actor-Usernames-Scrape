@@ -285,7 +285,7 @@ The usernames in this list are scraped from posted threads and users who add rep
 
 **Date Range of scrape:** October 9 2025 --> current date
 
-**Amount:** 30,704
+**Amount:** 31,431
 
 ----
 
@@ -355,7 +355,7 @@ The usernames in this list are scraped from posted threads.
 
 **Date Range of scrape:** February 5 2026 --> current date
 
-**Amount:** 11,134
+**Amount:** 11,324
 
 ---
 
@@ -411,7 +411,7 @@ Past urls: Breached.st
 
 **Date Range of scrape:** May 15 2026 --> current date
 
-**Amount:** 15,553
+**Amount:** 15,804
 
 ---
 
