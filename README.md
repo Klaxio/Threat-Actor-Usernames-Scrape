@@ -64,7 +64,7 @@ Active:
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 819,360 |
+| Total usernames | 834,274 |
 | Total unique usernames | 773,159 |
 | Total duplicate usernames | 46,201 |
 
@@ -213,7 +213,7 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 226,669 unique usernames
+**Amount:** 229,075 unique usernames
 
 ---
 
@@ -285,7 +285,7 @@ The usernames in this list are scraped from posted threads and users who add rep
 
 **Date Range of scrape:** October 9 2025 --> current date
 
-**Amount:** 31,431
+**Amount:** 31,998
 
 ----
 
@@ -411,7 +411,7 @@ Past urls: Breached.st
 
 **Date Range of scrape:** May 15 2026 --> current date
 
-**Amount:** 15,804
+**Amount:** 16,313
 
 ---
 
