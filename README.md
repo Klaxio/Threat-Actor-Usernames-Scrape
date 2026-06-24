@@ -66,7 +66,7 @@ Active:
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 834,274 |
+| Total usernames | 851,146 |
 | Total unique usernames | 773,159 |
 | Total duplicate usernames | 46,201 |
 
@@ -273,7 +273,7 @@ The usernames in this list are scraped from posted threads and users that reply 
 
 **Date Range of scrape:** October 7 2025 --> current date
 
-**Amount:** 12,816
+**Amount:** 13,151
 
 ----
 
@@ -301,7 +301,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 14 2025 --> current date
 
-**Amount:** 67,428
+**Amount:** 69,053
 
 ----
 
@@ -329,7 +329,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 27 2025 --> current date
 
-**Amount:** 20,026
+**Amount:** 20,400
 
 ---
 
@@ -426,7 +426,7 @@ Scraped from posted threads, replies, and Who's Online sections.
 
 **Date Range of scrape:** May 22 2026 --> current date
 
-**Amount:** 3,855
+**Amount:** 4,848
 
 ---
 
