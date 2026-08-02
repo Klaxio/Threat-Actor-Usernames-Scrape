@@ -66,7 +66,7 @@ Active:
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 871,117 |
+| Total usernames | 942,608 |
 | Total unique usernames | 812,807 |
 | Total duplicate usernames | 58,310 |
 
@@ -245,7 +245,7 @@ Old url(s): Patched.sh
 
 **Date Range of scrape:** August 23 2025 --> current date
 
-**Amount:** 47,243
+**Amount:** 47,430
 
 ----
 
@@ -259,7 +259,7 @@ Usernames gathered from posted threads and the Who's Online section at the botto
 
 **Date Range of scrape:** August 25 2025 --> current date
 
-**Amount:** 60,843
+**Amount:** 61,217
 
 ----
 
@@ -329,7 +329,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 27 2025 --> current date
 
-**Amount:** 22,680
+**Amount:** 23,164
 
 ---
 
@@ -385,7 +385,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** March 31 2026 --> current date
 
-**Amount:** 9,266
+**Amount:** 9,599
 
 ---
 
@@ -420,7 +420,7 @@ Past urls: Breached.st
 
 ## PwnForums.st
 
-**[forum_users_pwnforums.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_damagelab.txt)**
+**[forum_users_pwnforums.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_pwnforums.txt)**
 
 Scraped from posted threads, replies, and Who's Online sections.
 
@@ -429,6 +429,19 @@ Scraped from posted threads, replies, and Who's Online sections.
 **Amount:** 11,273
 
 ---
+
+## T1erOne
+
+**[forum_users_tierone.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_tierone.txt)**
+
+Scraped from posted threads, replies, and Who's Online sections.
+
+**Date Range of scrape:** June 06 2026 --> current date
+
+**Amount:** 153
+
+---
+
 
 # Greetz 💌
 
