@@ -217,7 +217,7 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 269,945 unique usernames
+**Amount:** 271,659 unique usernames
 
 ---
 
@@ -231,7 +231,7 @@ Old urls: DarkForums.io, DarkForums.me, DarkForums.su, DarkForums.ru
 
 **Date Range of scrape:** June 1 2025 --> current date
 
-**Amount:** 82,460 unique usernames
+**Amount:** 84,246 unique usernames
 
 ----
 
@@ -247,7 +247,7 @@ Old url(s): Patched.sh
 
 **Date Range of scrape:** August 23 2025 --> current date
 
-**Amount:** 49,181
+**Amount:** 49,807
 
 ----
 
@@ -275,7 +275,7 @@ The usernames in this list are scraped from posted threads and users that reply 
 
 **Date Range of scrape:** October 7 2025 --> current date
 
-**Amount:** 15,161
+**Amount:** 15,234
 
 ----
 
@@ -303,7 +303,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 14 2025 --> current date
 
-**Amount:** 84,285
+**Amount:** 85,717
 
 ----
 
@@ -331,7 +331,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 27 2025 --> current date
 
-**Amount:** 24,293
+**Amount:** 24,997
 
 ---
 
@@ -345,7 +345,7 @@ The usernames in this list are scraped from posted threads, users who respond in
 
 **Date Range of scrape:** January 13 2026 --> current date
 
-**Amount:** 2,653
+**Amount:** 2,661
 
 ---
 
@@ -359,7 +359,7 @@ The usernames in this list are scraped from posted threads.
 
 **Date Range of scrape:** February 5 2026 --> current date
 
-**Amount:** 15,410
+**Amount:** 15,514
 
 ---
 
@@ -373,7 +373,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** February 7 2026 --> current date
 
-**Amount:** 106,490
+**Amount:** 107,851
 
 ---
 
@@ -387,7 +387,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** March 31 2026 --> current date
 
-**Amount:** 10,323
+**Amount:** 10,374
 
 ---
 
@@ -440,7 +440,7 @@ Scraped from posted threads, replies, and Who's Online sections.
 
 **Date Range of scrape:** June 06 2026 --> current date
 
-**Amount:** 178
+**Amount:** 182
 
 ---
 
