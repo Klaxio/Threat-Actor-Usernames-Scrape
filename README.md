@@ -373,7 +373,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** February 7 2026 --> current date
 
-**Amount:** 107,851
+**Amount:** 109,075
 
 ---
 
@@ -415,7 +415,7 @@ Past urls: Breached.st
 
 **Date Range of scrape:** May 15 2026 --> current date
 
-**Amount:** 23,589
+**Amount:** 23,995
 
 ---
 
@@ -452,7 +452,7 @@ Vendor usernames that are scraped from the homepage. These people be selling met
 
 **Date Range of scrape:** September 04 2026 --> current date
 
-**Amount:** 1,602
+**Amount:** 1,617
 
 ---
 
