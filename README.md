@@ -217,7 +217,7 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 277,733 unique usernames
+**Amount:** 283,015 unique usernames
 
 ---
 
@@ -261,7 +261,7 @@ Usernames gathered from posted threads and the Who's Online section at the botto
 
 **Date Range of scrape:** August 25 2025 --> current date
 
-**Amount:** 61,460
+**Amount:** 61,489
 
 ----
 
@@ -289,7 +289,7 @@ The usernames in this list are scraped from posted threads and users who add rep
 
 **Date Range of scrape:** October 9 2025 --> current date
 
-**Amount:** 39,128
+**Amount:** 39,704
 
 ----
 
@@ -303,7 +303,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 14 2025 --> current date
 
-**Amount:** 85,717
+**Amount:** 95,942
 
 ----
 
@@ -331,7 +331,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 27 2025 --> current date
 
-**Amount:** 25,132
+**Amount:** 26,958
 
 ---
 
@@ -345,7 +345,8 @@ The usernames in this list are scraped from posted threads, users who respond in
 
 **Date Range of scrape:** January 13 2026 --> current date
 
-**Amount:** 2,700
+**Amount:** 2,741
+
 
 ---
 
