@@ -345,7 +345,7 @@ The usernames in this list are scraped from posted threads, users who respond in
 
 **Date Range of scrape:** January 13 2026 --> current date
 
-**Amount:** 2,741
+**Amount:** 2,821
 
 
 ---
@@ -402,7 +402,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** March 31 2026 --> current date
 
-**Amount:** 15,027
+**Amount:** 15,618
 
 ---
 
@@ -429,7 +429,7 @@ Scraped from posted threads, replies, and Who's Online sections.
 
 **Date Range of scrape:** May 22 2026 --> current date
 
-**Amount:** 16,872
+**Amount:** 18,249
 
 ---
 
@@ -441,7 +441,7 @@ Scraped from posted threads, replies, and Who's Online sections.
 
 **Date Range of scrape:** June 06 2026 --> current date
 
-**Amount:** 198
+**Amount:** 209
 
 ---
 
@@ -453,7 +453,7 @@ Vendor usernames that are scraped from the homepage. These people be selling met
 
 **Date Range of scrape:** September 04 2026 --> current date
 
-**Amount:** 1,708
+**Amount:** 1,722
 
 ---
 
