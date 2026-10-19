@@ -48,7 +48,7 @@ Active:
 - [Altenen.is](#altenenis)
 - [ASCarding.net](#ascardingnet)
 - [BlackHatWorld.com](#blackhatworld)
-- [Breached.su](#breachedsu)
+- [Breached.st](#breachedst)
 - [Cracked.sh](#crackedsh)
 - [CraxPro](#craxproorg)
 - [DarknetArmy.io](#darknetarmyio)
@@ -217,7 +217,7 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 287,246 unique usernames
+**Amount:** 290,100 unique usernames
 
 ---
 
@@ -247,7 +247,7 @@ Old url(s): Patched.sh
 
 **Date Range of scrape:** August 23 2025 --> current date
 
-**Amount:** 49,807
+**Amount:** 50,298
 
 ----
 
@@ -275,7 +275,7 @@ The usernames in this list are scraped from posted threads and users that reply 
 
 **Date Range of scrape:** October 7 2025 --> current date
 
-**Amount:** 15,842
+**Amount:** 15,984
 
 ----
 
@@ -388,7 +388,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** March 31 2026 --> current date
 
-**Amount:** 10,845
+**Amount:** 10,924
 
 ---
 
@@ -406,17 +406,17 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 ---
 
-## Breached.su
+## Breached.st
 
 **[forum_users_breached2026.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_breached2026.txt)**
 
 once again, same shit different pile. 2026 remix edition. this forum will not last long. they also be allowing ransomware nerds to post on it.
 
-Past urls: Breached.st
+Past urls: Breached.su
 
 **Date Range of scrape:** May 15 2026 --> current date
 
-**Amount:** 24,519
+**Amount:** 24,722
 
 ---
 
