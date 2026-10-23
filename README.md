@@ -261,7 +261,7 @@ Usernames gathered from posted threads and the Who's Online section at the botto
 
 **Date Range of scrape:** August 25 2025 --> current date
 
-**Amount:** 61,643
+**Amount:** 61,832
 
 ----
 
@@ -360,7 +360,7 @@ The usernames in this list are scraped from posted threads.
 
 **Date Range of scrape:** February 5 2026 --> current date
 
-**Amount:** 17,431
+**Amount:** 17,878
 
 ---
 
@@ -374,7 +374,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** February 7 2026 --> current date
 
-**Amount:** 123,015
+**Amount:** 125,632
 
 ---
 
@@ -453,7 +453,7 @@ Vendor usernames that are scraped from the homepage. These people be selling met
 
 **Date Range of scrape:** September 04 2026 --> current date
 
-**Amount:** 1,722
+**Amount:** 1,738
 
 ---
 
