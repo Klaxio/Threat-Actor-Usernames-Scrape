@@ -217,7 +217,7 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 292,265 unique usernames
+**Amount:** 294,141 unique usernames
 
 ---
 
@@ -289,7 +289,7 @@ The usernames in this list are scraped from posted threads and users who add rep
 
 **Date Range of scrape:** October 9 2025 --> current date
 
-**Amount:** 40,686
+**Amount:** 40,737
 
 ----
 
@@ -416,7 +416,7 @@ Past urls: Breached.su
 
 **Date Range of scrape:** May 15 2026 --> current date
 
-**Amount:** 24,825
+**Amount:** 24,913
 
 ---
 
