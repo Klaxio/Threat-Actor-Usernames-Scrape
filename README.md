@@ -231,7 +231,7 @@ Old urls: DarkForums.io, DarkForums.me, DarkForums.su, DarkForums.ru
 
 **Date Range of scrape:** June 1 2025 --> current date
 
-**Amount:** 91,301 unique usernames
+**Amount:** 91,890 unique usernames
 
 ----
 
@@ -289,7 +289,7 @@ The usernames in this list are scraped from posted threads and users who add rep
 
 **Date Range of scrape:** October 9 2025 --> current date
 
-**Amount:** 41,292
+**Amount:** 41,519
 
 ----
 
@@ -453,7 +453,7 @@ Vendor usernames that are scraped from the homepage. These people be selling met
 
 **Date Range of scrape:** September 04 2026 --> current date
 
-**Amount:** 1,757
+**Amount:** 1,807
 
 ---
 
